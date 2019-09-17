@@ -1,4 +1,6 @@
 # About
+A mod to Croppy by KnicKnic that cuts images to 800x1000
+
 The purpose of this website was to help people to take one long comic strip (think long narrow picture), and split it up into shorter sections that can be used on [line webtoon](https://www.webtoons.com/en/) and [tapas](https://tapas.io/).
 
 It is all client side and is a progressive web app.
